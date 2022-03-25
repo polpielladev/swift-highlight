@@ -1,3 +1,3 @@
 # CodeHighlighter
 
-A description of this package.
+A Swift Package to highlight `Swift` code blocks and Strings.
